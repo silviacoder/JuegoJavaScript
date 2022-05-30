@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    color: green;
+    font-family: monospace;
+
+}
+
+#description{
+    display: block;
+    border: 2px solid white;
+    width: 80vw;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#commands{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    color: inherit;
+    background-color: black;
+    font-family: inherit;
+    padding: 5px;
+}
+
+label{
+    display: block;
+    margin: 20px auto;
+    width: 80vw;
+    padding: 20px;
+    text-align: center;
+}
+
+#do{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid green;
+    color: inherit;
+    background-color: inherit;
+    border-radius: 20px;
+}
+
+#do:hover{
+    color: black;
+    background-color: green;
+    
+}
+
